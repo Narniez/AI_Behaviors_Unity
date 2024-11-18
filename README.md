@@ -1,1 +1,2 @@
-Unity project that contains levels with implemented AI behaviors on NPC's. This was created for personal portfolio module from Saxion University.
+Unity project that contains levels with implemented AI behaviors on NPC's.
+Behaviors include patrolling, chasing, hiding, avoiding, flocking and more.
